@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.y": "yacc",
+        "conexion_consola.h": "c",
+        "planificacion.h": "c",
+        "list.h": "c",
+        "recursos.h": "c",
+        "stdbool.h": "c",
+        "leer_config.h": "c",
+        "cstdlib": "c",
+        "conexiones_kernel.h": "c",
+        "sockets.h": "c",
+        "instrucciones.h": "c"
+    }
+}
